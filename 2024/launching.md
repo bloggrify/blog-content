@@ -1,51 +1,76 @@
 ---
 id: "1"
-title: "First official blog of Bloggrify "
-description: "Launching the first official blog of Bloggrify"
+title: "Announcing Bloggrify 1.0: A New Static Blog Generator Built on Nuxt"
+description: "Bloggrify is now available! A fast, secure and simple static blog generator that brings all the features you need out of the box, powered by Nuxt-Content and Vue.js"
 tags:
     - release
-    - documentation
 date: "2024-01-18"
-cover: "covers/andalousia.jpg"
+cover: "/blog/bloggrify.png"
 
 ---
 
-Welcome to Mistral: The Power of Static Blog Generation with Bloggrify
-
-Welcome to Mistral, a blog powered entirely by Bloggrify, your new go-to static blog generator! Whether you’re a seasoned developer or a blogging enthusiast, Bloggrify simplifies the process of creating and maintaining a static blog, offering the perfect blend of ease and power.
+After months of development, I'm excited to announce the first stable release of Bloggrify - a static blog generator that prioritizes simplicity without compromising on features.
 
 ## What is Bloggrify?
 
-Bloggrify is a versatile and robust static blog generator, similar to Hugo, Jekyll, and HubPress. It transforms your plain text files into a beautifully structured, fast, and secure static website. With Bloggrify, you can focus on creating content while we handle the rest.
+Bloggrify is a static blog generator built on top of Nuxt Content that provides everything you need for a modern blog, right out of the box:
 
+- 📝 Write in Markdown with full support for MDC syntax
+- 🔍 Built-in full-text search
+- 💬 Comments system integration
+- 📨 Newsletter integration
+- 📊 Analytics integration
+- 🎨 Themeable design
+- 🚀 SEO optimized 
+- 📡 RSS feed built-in
 
-## Why Choose Bloggrify?
+## Why Another Blog Generator?
+While there are many excellent static site generators available, I found myself repeatedly implementing the same features for different blogs. Bloggrify emerged from this experience - it's not just a framework, but a complete solution that brings common blog features together in a cohesive way.
+The goal is simple: you should be able to focus on writing, not configuring.
 
-1. Speed and Performance:
-   Static sites are renowned for their speed. Since there are no database queries to slow things down, your pages load almost instantly.
+## Core Features in Detail
 
-2. Security:
-   Static sites have a smaller attack surface compared to dynamic sites because they don't rely on server-side processing. This makes Bloggrify an excellent choice for those concerned about online security.
+### Comments Integration
+Out of the box, Bloggrify includes integration with Hyvor Talk for managing comments. Being a static blog generator, we carefully chose Hyvor Talk as our default comments provider for its:
 
-3. Simplicity and Flexibility:
-   Bloggrify supports Markdown for content creation, making it easy to write and format your posts. You have full control over your site’s structure and appearance, with a variety of templates and customization options available.
+* Quick setup (just add your site ID)
+* Clean, modern interface
+* Privacy-focused approach
+* Spam protection
+* Multiple authentication options
+* Full theming support
 
-4. Cost-Effective:
-   Static sites can be hosted on inexpensive or even free platforms. With Bloggrify, you can deploy your blog to platforms like GitHub Pages, Netlify, or any other static web hosting service without any hassle.
+No complex configuration needed - Bloggrify handles the integration automatically while keeping your blog fully static. Planning to add support for other comment providers in future releases.
 
-## Welcome to Mistral
+### Search that Works Offline
+The search is built using local indexing, providing instant results without external services. It works even offline!
 
-Mistral is more than just a blog; it's a demonstration of what you can achieve with Bloggrify. From sleek design to smooth functionality, Mistral showcases the capabilities of Bloggrify, proving that creating a professional, high-performing blog doesn’t have to be complicated or time-consuming.
+### Newsletter & Feed Integration 📡 📨
+Bloggrify comes with pre-configured integrations for keeping your readers updated:
 
-## Getting Started with Bloggrify
+* **RSS Feed**: Built-in RSS feed support, optimized for RSSFeedPulse for easy newsletter automation
+* **MailerLite**: Using RSS feed support
 
-Ready to start your own blog? Follow the official [Bloggrify documentation](https://bloggrify.com/introduction/installation) to set up your blog, customize your theme, and create your first post. 
+Bloggrify recommends the RSS to Email approach, converting your RSS feed into newsletters - write once, publish everywhere. 
 
-## Join the Bloggrify Community
-We’re thrilled to have you join us on this journey. Follow Mistral for regular updates, tips, and tutorials on making the most out of Bloggrify. Whether you’re sharing your thoughts, showcasing your work, or building a community, Bloggrify is here to help you create a stunning static blog effortlessly.
+### Analytics Integration 📊
 
-Feel free to explore Mistral, and [let us know what you think](https://github.com/bloggrify/bloggrify/issues). Your feedback is invaluable as we continue to improve and expand the capabilities of Bloggrify.
+Bloggrify supports privacy-focused analytics out of the box with multiple provider options:
+
+* Blogtally: Simple blog-focused analytics with reader engagement metrics
+* Pirsch: GDPR-compliant website statistics without compromising user privacy
+* Fathom: Ethical alternative to Google Analytics with real-time data
+
+### Theming System
+
+Want to customize the look? Bloggrify comes with a powerful theming system. Use one of the existing themes or create your own using Vue components.
+
+**Try It Out**
+Ready to start your blog? Check out:
+
+* [Documentation](https://bloggrify.com/)
+* [GitHub Repository](https://github.com/bloggrify/bloggrify)
+
+Feel free to open issues, contribute, or give a star if you like the project.
 
 Happy blogging!
-
-The Bloggrify Team

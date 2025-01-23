@@ -1,7 +1,7 @@
 ---
 id: "7"
-title: "Adding mermaid support"
-description: "Introducing MermaidJS Support: Create Stunning Diagrams in Bloggrify"
+title: "Introducing MermaidJS Support: Create Stunning Diagrams in Bloggrify"
+description: "Learn how to create and embed beautiful diagrams and flowcharts in your Bloggrify posts using MermaidJS."
 date: "2024-06-13"
 categories:
     - markdown
@@ -9,7 +9,6 @@ categories:
 tags:
     - markdown
     - mermaid
-    - documentation
 cover: "covers/santorin.jpg"
 ---
 

@@ -1,12 +1,12 @@
 ---
 id: "6"
-title: "Mathematics with KaTeX"
-description: "Announcing KaTeX Support: Easily Embed Mathematical Formulas in Bloggrify"
+title: "Announcing KaTeX Support: Easily Embed Mathematical Formulas in Bloggrify"
+description: "Bloggrify now supports KaTeX, allowing you to seamlessly embed mathematical formulas and equations directly into your Markdown posts."
 date: "2024-06-08"
 cover: "covers/lyon.jpg"
 tags:
     - markdown
-    - documentation
+    - katex
 ---
 
 ## Announcing KaTeX Support: Easily Embed Mathematical Formulas in Bloggrify

@@ -1,16 +1,11 @@
 ---
 id: "3"
 author: "hlassiege"
-title: "New custom component: listing page"
-description: "This is a new custom component for listing pages."
+title: "Introducing a new custom component: listing page"
+description: "A new custom component has been added to Bloggrify. This component is used to create listing pages."
 date: "2025-01-21"
-categories:
-  - markdown
-  - documentation
 tags:
   - markdown
-  - sample
-  - documentation
 
 ---
 
