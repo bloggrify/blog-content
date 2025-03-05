@@ -48,7 +48,7 @@ The search is built using local indexing, providing instant results without exte
 ### Newsletter & Feed Integration 📡 📨
 Bloggrify comes with pre-configured integrations for keeping your readers updated:
 
-* **RSS Feed**: Built-in RSS feed support, optimized for RSSFeedPulse for easy newsletter automation
+* **RSS Feed**: Built-in RSS feed support, optimized for Blogtally for easy newsletter automation
 * **MailerLite**: Using RSS feed support
 
 Bloggrify recommends the RSS to Email approach, converting your RSS feed into newsletters - write once, publish everywhere. 
