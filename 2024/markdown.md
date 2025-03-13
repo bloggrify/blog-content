@@ -87,17 +87,25 @@ Right aligned columns
 
 Autoconverted link https://www.google.com
 
-## Youtube and Twitter embed
+## Shortcodes
 
-You can embed youtube videos and tweets in your markdown files
+You can embed external content using shortcodes:
 
-https://www.youtube.com/watch?v=su2gNQJkteg
+### YouTube
 
-https://twitter.com/hugolassiege/status/1750435525071159309
+:youtube{videoId="su2gNQJkteg"}
 
-Links to a channel won't be transformed : 
+### X
 
-https://youtube.com/@eventuallycoding
+:X{tweetId="1750435525071159309"}
+
+### Vimeo
+
+:Vimeo{videoId="55073825"}
+
+### Instagram
+
+:Instagram{postId="CxOWiQNP2MO"}
 
 ## Images
 
