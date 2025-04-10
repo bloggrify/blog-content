@@ -21,7 +21,7 @@ We're excited to announce the release of Bloggrify 2.0.0, representing a lot of 
 
 ### Analytics Support
 Multiple provider support for web analytics:
-- Blogtally integration
+- Hakanai integration
 - Fathom Analytics
 - Google Analytics
 - Support for multiple providers simultaneously

@@ -1,7 +1,7 @@
 ---
 id: "8"
 title: "Analytics in Bloggrify: Track Your Blog Performance Without Compromising Privacy"
-description: "Learn how to set up and use privacy-focused analytics in your Bloggrify blog with Blogtally, Pirsch, or Fathom - complete setup guide and best practices"
+description: "Learn how to set up and use privacy-focused analytics in your Bloggrify blog with Hakanai, Pirsch, or Fathom - complete setup guide and best practices"
 cover: "/blog/analytics.jpg"
 date: "2024-02-11"
 tags:
@@ -34,7 +34,7 @@ Let's explore how you can get these benefits in your Bloggrify blog.
 
 Bloggrify integrates with privacy-focused analytics providers:
 
-### Blogtally
+### Hakanai
 - Specifically designed for blogs
 - Focus on reader engagement metrics
 - Simple, clean dashboard
@@ -55,7 +55,7 @@ Bloggrify integrates with privacy-focused analytics providers:
 
 ## Getting Started
 
-1. Choose your provider (Blogtally, Pirsch, or Fathom)
+1. Choose your provider (Hakanai, Pirsch, or Fathom)
 2. Sign up and get your site ID
 3. Add configuration to `app.config.ts`:
 4. Deploy your blog

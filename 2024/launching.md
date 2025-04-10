@@ -48,7 +48,7 @@ The search is built using local indexing, providing instant results without exte
 ### Newsletter & Feed Integration 📡 📨
 Bloggrify comes with pre-configured integrations for keeping your readers updated:
 
-* **RSS Feed**: Built-in RSS feed support, optimized for Blogtally for easy newsletter automation
+* **RSS Feed**: Built-in RSS feed support, optimized for Hakanai for easy newsletter automation
 * **MailerLite**: Using RSS feed support
 
 Bloggrify recommends the RSS to Email approach, converting your RSS feed into newsletters - write once, publish everywhere. 
@@ -57,7 +57,7 @@ Bloggrify recommends the RSS to Email approach, converting your RSS feed into ne
 
 Bloggrify supports privacy-focused analytics out of the box with multiple provider options:
 
-* Blogtally: Simple blog-focused analytics with reader engagement metrics
+* Hakanai: Simple blog-focused analytics with reader engagement metrics
 * Pirsch: GDPR-compliant website statistics without compromising user privacy
 * Fathom: Ethical alternative to Google Analytics with real-time data
 

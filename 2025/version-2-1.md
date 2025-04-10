@@ -76,7 +76,7 @@ Here are the new shortcodes available in Bloggrify 2.1.0:
 
 Umami has been added as a new analytics provider in Bloggrify 2.1.0. 
 
-You can now use it alongside Google Analytics, Blogtally pulse, Fathom, pirsch, and Plausible to track your blog's performance.
+You can now use it alongside Google Analytics, Hakanai pulse, Fathom, pirsch, and Plausible to track your blog's performance.
 
 
 ```ts
