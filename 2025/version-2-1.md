@@ -3,7 +3,7 @@ id: "5"
 author: "hlassiege"
 title: "Announcing Bloggrify 2.1: More Shortcodes and Analytics Integration"
 description: "Minor release with new shortcodes and Umami analytics integration. "
-date: "2025-01-24"
+date: "2025-01-25"
 tags:
   - release
 
