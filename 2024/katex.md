@@ -1,5 +1,5 @@
 ---
-id: "6"
+pageid: "6"
 title: "Announcing KaTeX Support: Easily Embed Mathematical Formulas in Bloggrify"
 description: "Bloggrify now supports KaTeX, allowing you to seamlessly embed mathematical formulas and equations directly into your Markdown posts."
 date: "2024-06-08"

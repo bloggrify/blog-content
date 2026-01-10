@@ -1,5 +1,5 @@
 ---
-id: "8"
+pageid: "8"
 title: "Analytics in Bloggrify: Track Your Blog Performance Without Compromising Privacy"
 description: "Learn how to set up and use privacy-focused analytics in your Bloggrify blog with Hakanai, Pirsch, or Fathom - complete setup guide and best practices"
 cover: "/blog/analytics.jpg"

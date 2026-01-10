@@ -1,5 +1,5 @@
 ---
-id: "7"
+pageid: "7"
 title: "Introducing MermaidJS Support: Create Stunning Diagrams in Bloggrify"
 description: "Learn how to create and embed beautiful diagrams and flowcharts in your Bloggrify posts using MermaidJS."
 date: "2024-06-13"

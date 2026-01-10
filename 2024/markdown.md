@@ -1,5 +1,5 @@
 ---
-id: "2"
+pageid: "2"
 title: "Writing in Bloggrify: Beyond Basic Markdown"
 description: "Discover how Bloggrify enhances your writing experience with MDC syntax, Vue components in Markdown, and advanced formatting features"
 date: "2024-02-10"
@@ -136,7 +136,7 @@ It also supports frontmatter to add metadata to your markdown files.
 
 ```yaml
 ---
-id: "2"
+pageid: "2"
 title: "Use markdown power"
 description: "Use markdown at its full potential."
 date: "2024-02-09"

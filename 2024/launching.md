@@ -1,5 +1,5 @@
 ---
-id: "1"
+pageid: "1"
 title: "Announcing Bloggrify 1.0: A New Static Blog Generator Built on Nuxt"
 description: "Bloggrify is now available! A fast, secure and simple static blog generator that brings all the features you need out of the box, powered by Nuxt-Content and Vue.js"
 tags:
