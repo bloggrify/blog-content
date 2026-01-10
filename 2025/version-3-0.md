@@ -1,5 +1,5 @@
 ---
-id: "6"
+pageid: "6"
 author: "hlassiege"
 title: "Announcing Bloggrify 3.0: ClI tools, nuxt ui integration, and more"
 description: "Major release with new CLI tools, nuxt ui integration, and more."

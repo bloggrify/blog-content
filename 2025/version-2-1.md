@@ -1,5 +1,5 @@
 ---
-id: "5"
+pageid: "5"
 author: "hlassiege"
 title: "Announcing Bloggrify 2.1: More Shortcodes and Analytics Integration"
 description: "Minor release with new shortcodes and Umami analytics integration. "

@@ -1,5 +1,5 @@
 ---
-id: "4"
+pageid: "4"
 author: "hlassiege"
 title: "Announcing Bloggrify 2.0: Enhanced SEO, Analytics, and Developer Experience"
 description: "Major release with improved SEO capabilities, multiple analytics providers, and better developer experience. Over 46 commits bringing significant improvements to the framework."

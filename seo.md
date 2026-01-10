@@ -1,5 +1,5 @@
 ---
-id: "3"
+pageid: "3"
 title: "SEO in Bloggrify: How Your Blog Gets Found"
 description: "Discover how Bloggrify automatically optimizes your blog for search engines and learn best practices to improve your content visibility"
 date: "2024-02-11"
