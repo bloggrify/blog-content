@@ -3,7 +3,7 @@ pageid: "13"
 author: "hlassiege"
 title: "AI and Your Blog: Two Questions, Two Switches"
 description: "Should AI read your blog, and should you make it easy for them? Bloggrify keeps these two questions separate, and leaves the answers to you."
-date: "2026-07-17"
+date: "2026-07-16"
 table_of_contents: true
 tags:
     - seo
