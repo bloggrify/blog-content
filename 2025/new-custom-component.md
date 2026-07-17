@@ -1,5 +1,5 @@
 ---
-pageid: "3"
+pageid: "11"
 author: "hlassiege"
 title: "Introducing a new custom component: listing page"
 description: "A new custom component has been added to Bloggrify. This component is used to create listing pages."

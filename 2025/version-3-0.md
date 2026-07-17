@@ -1,7 +1,7 @@
 ---
-pageid: "6"
+pageid: "12"
 author: "hlassiege"
-title: "Announcing Bloggrify 3.0: ClI tools, nuxt ui integration, and more"
+title: "Announcing Bloggrify 3.0: CLI tools, Nuxt UI integration, and more"
 description: "Major release with new CLI tools, nuxt ui integration, and more."
 date: "2025-12-27"
 tags:
@@ -9,7 +9,7 @@ tags:
 
 ---
 
-We're excited to announce the release of Bloggrify 3.0.0! This update improve existing features to enhance your blogging experience: shortcodes and built-in analytics integration.
+We're excited to announce the release of Bloggrify 3.0.0! This major release brings a CLI to manage your blog, a Nuxt UI integration, and moves the whole stack to Nuxt 4 and Nuxt Content 3.
 
 ## What's New in 3.0.0
 

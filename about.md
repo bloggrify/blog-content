@@ -1,36 +1,30 @@
 ---
 pageid: "9"
 title: "About"
-description: "About this theme."
+description: "About the official Bloggrify blog."
 date: "2024-02-11"
 listed: false
 nocomments: true
 categories:
     - "documentation"
 tags:
-    - "theme"
-    - "minimalist"
+    - "bloggrify"
     - "documentation"
 
 schemaOrg:
     "@type": "AboutPage"
 ---
 
-# About this theme
+# About this blog
 
-Minimalist is a theme for the blogging platform [Bloggrify](https://bloggrify.com).
+This is the official blog of [Bloggrify](https://bloggrify.com), a static blog generator built on
+Nuxt Content. Release notes, new features and writing guides are published here.
 
-
-## Supported features
-
-|| **Feature** | **Description**                              |
-|---|---|----------------------------------------------|
-| 🌙 | Dark mode | Toggle between light and dark mode           |
-| 📝 | Markdown | Use markdown to write your posts             |
-| 📱 | Responsive | Mobile-friendly design                       |
+It also doubles as the live demo of `minimalist`, the theme shipped with Bloggrify by default:
+what you are reading is exactly what you get out of the box.
 
 
-## Installation
+## Getting started
 
 First, you need to create a new Nuxt application. You can do this by running the following command:
 

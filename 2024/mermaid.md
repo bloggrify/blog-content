@@ -9,7 +9,6 @@ categories:
 tags:
     - markdown
     - mermaid
-cover: "covers/santorin.jpg"
 ---
 
 ## Introducing MermaidJS Support: Create Stunning Diagrams in Bloggrify

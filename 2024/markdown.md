@@ -147,7 +147,7 @@ cover: "doc/markdown.png"
 ---
 ```
 
-* `id` is mandatory if you want to use the comment system. It is used to identify the article.  
+* `pageid` is mandatory if you want to use the comment system. It is used to identify the article, so it must be unique across your blog.  
 * `title` and `description` are used for SEO and social sharing. It's also used on the index page. Don't forget to fill them.
 * `date` is used to sort the articles. Date in the future will not be displayed.
 * `tags` are only used to display the tags on the article page. It's optional.
