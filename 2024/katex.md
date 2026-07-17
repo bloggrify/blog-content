@@ -1,5 +1,6 @@
 ---
 pageid: "6"
+author: "hlassiege"
 title: "Announcing KaTeX Support: Easily Embed Mathematical Formulas in Bloggrify"
 description: "Bloggrify now supports KaTeX, allowing you to seamlessly embed mathematical formulas and equations directly into your Markdown posts."
 date: "2024-06-08"
@@ -8,11 +9,9 @@ tags:
     - katex
 ---
 
-## Announcing KaTeX Support: Easily Embed Mathematical Formulas in Bloggrify
+Bloggrify now supports KaTeX, so you can embed mathematical formulas and equations directly into your Markdown posts. This is handy for anyone writing technical, scientific, or educational content.
 
-Hello, readers! We have some exciting news for all the math enthusiasts and educators out there. Bloggrify now supports KaTeX, allowing you to seamlessly embed mathematical formulas and equations directly into your Markdown posts. This powerful new feature makes it easier than ever to create and share content that includes complex mathematical notation.
-
-KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web. It is a robust and efficient way to render mathematical formulas in your markdown files.
+KaTeX is a fast JavaScript library for TeX math rendering on the web, and a reliable way to render mathematical formulas in your Markdown files.
 
 You can find more information on the [official website](https://katex.org/).
 
@@ -35,10 +34,6 @@ $$
 This is an inline formula $a^2 + b^2 = c^2$.
 
 ## Conclusion
-With KaTeX support, Bloggrify opens up new possibilities for creating rich, educational content. Whether you're a teacher, a student, or just someone who loves math, this feature will help you communicate complex ideas more effectively.
+With KaTeX support, you can write rich technical and educational content without leaving Markdown. Whether you're teaching, studying, or just documenting a formula, it helps you communicate complex ideas clearly.
 
-We can’t wait to see how you use KaTeX in your Bloggrify posts. Share your thoughts and creations with us, and stay tuned to Bloggrify for more updates and tutorials!
-
-Happy blogging!
-
-The Bloggrify Team
+Share what you build with it, and stay tuned to Bloggrify for more updates.

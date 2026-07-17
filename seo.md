@@ -1,5 +1,6 @@
 ---
 pageid: "3"
+author: "hlassiege"
 title: "SEO in Bloggrify: How Your Blog Gets Found"
 description: "Discover how Bloggrify automatically optimizes your blog for search engines and learn best practices to improve your content visibility"
 date: "2024-02-11"
@@ -84,10 +85,10 @@ Website performance is crucial for SEO, and Bloggrify leverages cutting-edge tec
 
 **Static Site Generation (SSG)**  
 Your entire blog is pre-rendered at build time into static HTML. This means:
-- Zero server-side rendering delays
-- Instant page loads from CDN
+- No server-side rendering delays
+- Fast page loads straight from a CDN
 - No database queries slowing things down
-- Perfect lighthouse scores out of the box
+- Strong Lighthouse scores out of the box
 
 **Nuxt Content's Architecture**
 Under the hood, Nuxt Content provides several performance benefits:
@@ -97,20 +98,18 @@ Under the hood, Nuxt Content provides several performance benefits:
 - Efficient parsing through Nitro engine
 - Built-in search with no external dependencies
 
-**Image Optimization Pipeline**
-Images are often the heaviest part of a blog. Bloggrify handles them intelligently:
-- Automatic WebP conversion
-- Responsive image generation
-- Lazy loading by default
-- Optimal sizing based on viewport
-- Image CDN integration ready
+**Image Optimization**
+Images are often the heaviest part of a blog. Bloggrify integrates with Nuxt Image, so when you opt in you get:
+- Modern formats such as WebP and AVIF
+- Responsive, viewport-aware image sizing
+- Lazy loading for offscreen images
+- A pipeline that plugs into your image CDN of choice
 
 **Modern Performance Features:**
 - Route prefetching for instant navigation
 - Automatic chunk splitting
 - Tree-shaking of unused code
 - Asset optimization
-- HTTP/2 push support
 - Efficient resource hints
 
 All of this happens automatically. You write your content, and Bloggrify ensures it's delivered to your readers in the most efficient way possible.

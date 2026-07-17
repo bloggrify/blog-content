@@ -1,5 +1,6 @@
 ---
 pageid: "8"
+author: "hlassiege"
 title: "Analytics in Bloggrify: Track Your Blog Performance Without Compromising Privacy"
 description: "Learn how to set up and use privacy-focused analytics in your Bloggrify blog with Hakanai, Pirsch, or Fathom - complete setup guide and best practices"
 cover: "/blog/analytics.jpg"
@@ -52,12 +53,27 @@ Bloggrify integrates with privacy-focused analytics providers:
 - Advanced goal tracking
 - EU-hosted option available
 
+### Umami & Plausible
+- Open source and cookieless
+- Lightweight tracking scripts
+- Self-hostable if you want full control
+
 
 ## Getting Started
 
-1. Choose your provider (Hakanai, Pirsch, or Fathom)
-2. Sign up and get your site ID
-3. Add configuration to `app.config.ts`:
+1. Choose your provider (Hakanai, Pirsch, Fathom, Umami, or Plausible)
+2. Sign up and get your site ID or tracking code
+3. Add the provider to `app.config.ts`:
+
+```ts
+// app.config.ts
+analytics: {
+  providers: [
+    { provider: 'fathom', code: 'YOUR_SITE_ID' },
+  ],
+}
+```
+
 4. Deploy your blog
 5. Start gathering insights!
 

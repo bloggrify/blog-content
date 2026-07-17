@@ -1,5 +1,6 @@
 ---
 pageid: "1"
+author: "hlassiege"
 title: "Announcing Bloggrify 1.0: A New Static Blog Generator Built on Nuxt"
 description: "Bloggrify is now available! A fast, secure and simple static blog generator that brings all the features you need out of the box, powered by Nuxt-Content and Vue.js"
 tags:
@@ -9,7 +10,7 @@ cover: "/blog/bloggrify.png"
 
 ---
 
-After months of development, I'm excited to announce the first stable release of Bloggrify - a static blog generator that prioritizes simplicity without compromising on features.
+After months of development, we're excited to announce the first stable release of Bloggrify, a static blog generator that prioritizes simplicity without compromising on features.
 
 ## What is Bloggrify?
 
@@ -25,7 +26,7 @@ Bloggrify is a static blog generator built on top of Nuxt Content that provides 
 - 📡 RSS feed built-in
 
 ## Why Another Blog Generator?
-While there are many excellent static site generators available, I found myself repeatedly implementing the same features for different blogs. Bloggrify emerged from this experience - it's not just a framework, but a complete solution that brings common blog features together in a cohesive way.
+While there are many excellent static site generators available, we kept re-implementing the same features for different blogs. Bloggrify emerged from this experience: it's not just a framework, but a complete solution that brings common blog features together in a cohesive way.
 The goal is simple: you should be able to focus on writing, not configuring.
 
 ## Core Features in Detail
@@ -48,10 +49,10 @@ The search is built using local indexing, providing instant results without exte
 ### Newsletter & Feed Integration 📡 📨
 Bloggrify comes with pre-configured integrations for keeping your readers updated:
 
-* **RSS Feed**: Built-in RSS feed support, optimized for Hakanai for easy newsletter automation
-* **MailerLite**: Using RSS feed support
+* **RSS Feed**: Built-in RSS feed, ready to be consumed by readers and automation tools
+* **MailerLite**: Turn your RSS feed into a newsletter with automatic RSS-to-email campaigns
 
-Bloggrify recommends the RSS to Email approach, converting your RSS feed into newsletters - write once, publish everywhere. 
+Bloggrify recommends the RSS-to-email approach: convert your RSS feed into newsletters and write once, publish everywhere. 
 
 ### Analytics Integration 📊
 

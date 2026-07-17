@@ -18,43 +18,23 @@ schemaOrg:
 # About this blog
 
 This is the official blog of [Bloggrify](https://bloggrify.com), a static blog generator built on
-Nuxt Content. Release notes, new features and writing guides are published here.
+Nuxt Content. We publish release notes, new features and writing guides here.
 
 It also doubles as the live demo of `minimalist`, the theme shipped with Bloggrify by default:
 what you are reading is exactly what you get out of the box.
 
+Bloggrify is a free and open source project, and we'd love to grow the community around it.
+You don't need to write code to help: improving the documentation, reporting a bug, sharing
+feedback on what works (or doesn't), or simply suggesting an idea all make Bloggrify better.
+If any of that sounds like you, come say hello on [GitHub](https://github.com/bloggrify/bloggrify).
 
 ## Getting started
 
-First, you need to create a new Nuxt application. You can do this by running the following command:
+Want to run your own Bloggrify blog? The full documentation lives on the main site:
 
-```bash
-npx nuxi@latest init myblog
-```
+- [Introduction](https://bloggrify.com/introduction) to install Bloggrify and set up your project
+- [Configuration](https://bloggrify.com/introduction/configuration) for every available option
+- [Writing pages](https://bloggrify.com/introduction/writing-pages) to start creating content
 
-Then, you need to install the dependencies:
-
-```bash
-npm install @bloggrify/core
-npm install -D sass-embedded
-```
-
-Then you have to explicitly say to Nuxt that you are using Bloggrify as an extended module. You can do this by adding the following line in your `nuxt.config.js` file:
-
-```json
-    extends: [
-        '@bloggrify/core',
-    ],
-```
-
-## Create a basic configuration file
-
-You should have a default configuration file in the root of your project: `app.config.ts`. The file is however empty. You can read more about the configuration options [here](https://bloggrify.com/introduction/configuration).
-
-Then you can run the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-Next, you can remove all contents from the `content` folder and start from scratch and create your own [content](https://bloggrify.com/introduction/writing-pages).
+If you just want to see what Bloggrify can do, keep reading the posts on this blog: each one
+demonstrates a feature you can use in your own writing.

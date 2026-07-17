@@ -1,5 +1,6 @@
 ---
 pageid: "7"
+author: "hlassiege"
 title: "Introducing MermaidJS Support: Create Stunning Diagrams in Bloggrify"
 description: "Learn how to create and embed beautiful diagrams and flowcharts in your Bloggrify posts using MermaidJS."
 date: "2024-06-13"
@@ -11,9 +12,7 @@ tags:
     - mermaid
 ---
 
-## Introducing MermaidJS Support: Create Stunning Diagrams in Bloggrify
-
-Hello, readers! We are thrilled to announce another fantastic addition to Bloggrify: support for MermaidJS. With MermaidJS, you can now effortlessly create and embed beautiful diagrams and flowcharts directly in your Markdown posts. This powerful feature is perfect for visualizing complex information, making your content more engaging and easier to understand.
+Bloggrify now supports MermaidJS, so you can create and embed diagrams and flowcharts directly in your Markdown posts. It's a good fit whenever you need to visualize a workflow, a system, or a process without leaving your editor.
 
 :toc{showChildren=true}
 
@@ -128,9 +127,7 @@ journey
 
 ## Conclusion
 
-With MermaidJS support, Bloggrify empowers you to create dynamic, informative, and visually appealing content. Whether you need to visualize workflows, represent complex systems, or simply add a touch of creativity to your posts, MermaidJS is the perfect tool.
+With MermaidJS support, you can visualize workflows and complex systems right inside your posts, no external tooling required.
 
-We look forward to seeing the amazing diagrams you create with MermaidJS in your Bloggrify posts. Share your experiences and feedback with us, and stay tuned to Mistral for more exciting updates and tutorials!
-
-Happy blogging!
+We'd love to see what you build with it. Share your feedback with us, and stay tuned to Bloggrify for more updates.
 

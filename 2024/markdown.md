@@ -1,5 +1,6 @@
 ---
 pageid: "2"
+author: "hlassiege"
 title: "Writing in Bloggrify: Beyond Basic Markdown"
 description: "Discover how Bloggrify enhances your writing experience with MDC syntax, Vue components in Markdown, and advanced formatting features"
 date: "2024-02-10"

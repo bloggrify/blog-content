@@ -9,7 +9,7 @@ tags:
 
 ---
 
-We're excited to announce the release of Bloggrify 2.1.0! This update improve existing features to enhance your blogging experience: shortcodes and built-in analytics integration.
+We're excited to announce the release of Bloggrify 2.1.0! This update improves existing features to enhance your blogging experience: shortcodes and built-in analytics integration.
 
 ## What's New in 2.1.0
 
@@ -76,7 +76,7 @@ Here are the new shortcodes available in Bloggrify 2.1.0:
 
 Umami has been added as a new analytics provider in Bloggrify 2.1.0. 
 
-You can now use it alongside Google Analytics, Hakanai pulse, Fathom, pirsch, and Plausible to track your blog's performance.
+You can now use it alongside Google Analytics, Hakanai Pulse, Fathom, Pirsch, and Plausible to track your blog's performance.
 
 
 ```ts
