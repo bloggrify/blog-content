@@ -1,8 +1,8 @@
 ---
 pageid: "13"
 author: "hlassiege"
-title: "AI and Your Blog: Two Questions, Two Switches"
-description: "Should AI read your blog, and should you make it easy for them? Bloggrify keeps these two questions separate, and leaves the answers to you."
+title: "Should you block AI crawlers on your blog? And does it even work?"
+description: "The major AI crawlers honour robots.txt, so blocking them is one line in Bloggrify. Whether you should, and what it actually protects, is another question."
 date: "2026-07-16"
 table_of_contents: true
 tags:
@@ -10,18 +10,29 @@ tags:
     - ai
 ---
 
-Every blogger is now asking the same thing: what happens to my posts once an AI crawler finds them? It is a fair question, and the honest answer is that you get to decide. Bloggrify's job is not to make that decision for you. It is to give you clean switches and sensible defaults, then step out of the way.
 
-There are really two separate questions hiding behind "AI and my blog", and Bloggrify treats them as separate on purpose:
+Should you block AI crawlers on your blog?
 
-1. **Do you want AI crawlers to use your content at all?** That is a `robots.txt` question.
-2. **Do you want to make your content easy for AI tools to read?** That is what `llms.txt` is for.
+It is a real question for a lot of writers online right now. Should we let LLMs feed off our content? Is there a risk to our visibility if, tomorrow, readers get their answers straight from ChatGPT?
+
+Some articles are indeed alarmed by the fairly broad drop in traffic across sites.
+
+Or the other way round: by becoming invisible to the LLMs, are we not cutting ourselves off from a potential source of traffic?
+
+For my part, I tend to think that we, as readers, are changing the way we browse and search, and that this drop in traffic is unavoidable. So the question is whether to block the crawlers entirely to slow the trend down, or instead to try to be part of this new ecosystem. You be the judge.
+
+Say you pick one path or the other. How do you go about it? How do you block the crawlers, or encourage them to read your blog? And does it actually work?
+
+Before we start, it helps to separate two things that often get mixed up:
+
+1. **Do you want AI crawlers to use your content at all?** That is a `robots.txt` question
+2. **Do you want to make your content easy for AI tools to read?** That is what `llms.txt` is for
 
 They are independent. You can block crawlers and skip `llms.txt`, publish `llms.txt` and welcome crawlers, or do neither. What does not make sense is answering "no" to the first and "yes" to the second, and we will come back to that.
 
 ## Do you want AI to read your blog?
 
-Here is the part people often miss: the major AI crawlers do respect `robots.txt`.
+First thing first: the major AI crawlers do respect `robots.txt`.
 
 OpenAI, Anthropic, Google, Perplexity and the rest publish the names of their crawlers, and they document that those crawlers honour `robots.txt` directives. This is not a folk belief, it is written policy. So if you decide you would rather not feed your writing into a training set or an answer engine, you can say so, and the well-behaved bots will listen.
 
